@@ -161,7 +161,7 @@ GitCommit: 4d640edc8df64b9cf050904f60ac03765e05d3f6
 Directory: 2.7/wheezy
 
 Tags: 2.7.15-alpine3.7, 2.7-alpine3.7, 2-alpine3.7, 2.7.15-alpine, 2.7-alpine, 2-alpine
-Architectures: amd64, arm32v6, arm64v8, i386, ppc64le, s390x
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
 GitCommit: 8d755d18e6990b8ad6f137d7613ba7937389b47a
 Directory: 2.7/alpine3.7
 
